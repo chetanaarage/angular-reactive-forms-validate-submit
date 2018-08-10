@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Purrsloud",
+        "id": 1,
+        "species": "Cat",
+        "birthYear": 2016,
+        "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+        "name": "Barksalot",
+        "id": 2,
+        "species": "Dog",
+        "birthYear": 2008,
+        "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+        "name": "Meowsalot",
+        "id": 3,
+        "species": "Cat",
+        "birthYear": 2012,
+        "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    }
+]

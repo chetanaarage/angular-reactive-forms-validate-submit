@@ -1,0 +1,7 @@
+<div>
+  <ul>
+    <li *ngFor="let pet of pets;let i=index">
+      <a [routerLink]='["petDetail",pet.id]'>{{pet.name}}</a>
+    </li>
+  </ul>
+</div>
